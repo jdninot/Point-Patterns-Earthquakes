@@ -1,6 +1,6 @@
-<img align="right" src="https://sdk.bitmoji.com/render/panel/fa4bfda3-cc6d-4418-9436-ab707980eacb-0498e91b-a234-4e5c-a922-8e9f456571e7-v1.png?transparent=1&palette=1" width=210 height=210 />   
-
 ## Patrones puntuales en la actividad sismica del Quindio
+
+<img align="right" src="https://www.vmcdn.ca/f/files/glaciermedia/import/lmp-all/941827-maxresdefault.jpg;w=960?transparent=1&palette=1" width=210 height=210 />   
 
 **Integrantes**
 
