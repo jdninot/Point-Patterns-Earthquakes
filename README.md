@@ -1,8 +1,8 @@
 ## Patrones puntuales en la actividad sismica del Quindio
 
-<img align="right" src="https://www.vmcdn.ca/f/files/glaciermedia/import/lmp-all/941827-maxresdefault.jpg;w=960?transparent=1&palette=1" width=210 height=210 />   
-
 **Integrantes**
+
+<img align="right" src="https://www.vmcdn.ca/f/files/glaciermedia/import/lmp-all/941827-maxresdefault.jpg;w=960?transparent=1&palette=1" width=210 height=210 />   
 
 [Jesus David Niño Torres](),
 [Julieth Andrea López Castiblanco](),
